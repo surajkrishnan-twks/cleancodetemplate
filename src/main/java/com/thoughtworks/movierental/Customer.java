@@ -5,6 +5,7 @@ import java.util.List;
 
 public class Customer {
     private final String name;
+
     private final List<Rental> rentals = new ArrayList<>();
 
     public Customer(String name) {
