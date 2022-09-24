@@ -28,4 +28,5 @@ public class TextStatement {
         return ("Amount owed is " + totalAmount + "\n") + ("You earned " + frequentRenterPoints
                 + " frequent renter points");
     }
+
 }
